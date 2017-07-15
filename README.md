@@ -1,6 +1,10 @@
-# Ngmd01
+# Angular Material
+## Sample Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
+This is the sample app of the tutorial __Angular Material - Material Design Components For Angular - Part 1 Introduction__ available on [CodingTheSmartWay.com](http://codingthesmartway.com/).
+
+## Online Course
+Check out the online course: [Angular - The Complete Guide](http://codingthesmartway.com/courses/angular2-complete-guide/)
 
 ## Development server
 

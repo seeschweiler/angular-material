@@ -1,0 +1,11 @@
+.formwidth {
+  width: 500px;
+  margin-left:auto;
+  margin-right:auto;
+  padding: 15px;
+  border: 1px solid lightgrey;
+}
+
+.fullwidth {
+  width: 100%;
+}
